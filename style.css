@@ -1,8 +1,8 @@
 body {
   font-family: 'Open Sans', sans-serif;
-  color: DarkBlue;
+  background-color: black;
+  color: White;
   margin: 10px 50px 50px 10px;
-  background-color: Ivory;
 }
 img {
   width: 100px;
@@ -12,33 +12,7 @@ img {
 h1, h2 {
   font-family: 'Oswald', sans-serif;
 }
-#nav il {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
 
-#nav li {
-  display: inline;
-}
-
-#nav a {
-  margin-left: 75px;
-  margin-right: 75px;
-}
 .left {
   float: left;
-  width: 300px;
-  padding: 1em;
-}
-
-.right {
-  float: right;
-  width: 300px;
-  padding: 1em;
-}
-.center {
-  margin-left: 300px;
-  margin-right: 300px;
-  padding: 1em;
 }
